@@ -1,0 +1,4 @@
+#!@TERMUX_PREFIX@/bin/sh
+
+echo "lifehost-sms-inbox: This script has been replaced by lifehost-sms-list."
+exit 1

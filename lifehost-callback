@@ -1,0 +1,4 @@
+#!/data/data/com.lifehost/files/usr/bin/bash
+set -e -u
+$TERMUX_CALLBACK "$@"
+
